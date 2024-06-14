@@ -1,0 +1,11 @@
+#include <stdio.h>
+
+int main() {
+    int a=56;
+    printf("value of a=%d\n",a);
+    printf("Address of a=%u\n",&a);
+    // Write C code here
+    printf("Try programiz.pro");
+
+    return 0;
+}
